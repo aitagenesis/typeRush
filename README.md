@@ -1,0 +1,2 @@
+# typeRush
+a school project
